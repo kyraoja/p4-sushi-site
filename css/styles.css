@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.slider{
+	width: 940px;
+	height: 650px;
+	padding: 5px;
+	
+}
+
+body{
+	background: #B7B7B7;
+}
+
+.search{
+	height: 45px;
+}
+
+.search{
+	height: 30px;
+}
